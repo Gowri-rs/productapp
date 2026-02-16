@@ -1,7 +1,7 @@
 import React from 'react'
-import Navbar from '../components/Navbar'
-import Product from '../components/Product'
-import Cart from '../components/Cart'
+import Navbar from './components/Navbar'
+import Product from './components/Product'
+import Cart from './components/Cart'
 import { Route, Routes } from 'react-router-dom'
 
 
